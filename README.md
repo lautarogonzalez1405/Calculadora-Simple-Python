@@ -36,14 +36,14 @@ Ingresa tu operación: 10 + 5
 Resultado: 15.0
 ```
 
-##🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 * Python 3: Lenguaje principal.
 * Módulo Standard: No requiere librerias externas.
 
-##📈 Próximas Mejoras (Roadmap)
+## 📈 Próximas Mejoras (Roadmap)
 Como este es un proyecto en crecimiento, planeo añadir:
 * [ ] Operaciones avanzadas (Potencia, raíz cuadrada, porcentaje).
 * [ ] Historial de operaciones realizadas durante la sesión.
 * [ ] Soporte para operaciones encadenadas (ej: 2 + 2 + 2).
 
-##Desarrollado por Lautaro Gonzalez
+## Desarrollado por Lautaro Gonzalez
