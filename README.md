@@ -18,15 +18,15 @@ El proyecto utiliza conceptos clave como **diccionarios**, **funciones lambda**,
 
 1.  **Clona el repositorio** o descarga el archivo `calculadora.py`:
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-de-tu-repo.git](https://github.com/tu-usuario/nombre-de-tu-repo.git)
+    git clone (https://github.com/lautarogonzalez1405/Calculadora-Simple-Python)
     ```
 2.  **Navega a la carpeta** del proyecto:
     ```bash
-    cd nombre-de-tu-repo
+    cd Calculadora-Simple-Python
     ```
 3.  **Ejecuta la calculadora**:
     ```bash
-    python calculadora.py
+    python protoCalcu.py
     ```
 
 ### Ejemplo de uso:
