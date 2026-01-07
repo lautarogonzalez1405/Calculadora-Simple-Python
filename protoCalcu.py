@@ -1,5 +1,6 @@
 print('Bienvenido a este prototipo de calculadora simple.')
-print('Puedes realizar operaciones básicas como suma, resta, multiplicación y división.')
+print('Puedes realizar operaciones básicas como suma, resta, multiplicación, división y porcentaje.')
+print('Nota: Si desea calcular el porcentaje, solo debe ingresar el numero seguido del símbolo % y luego el porcentaje a calcular.')
 print('Por favor, ingresa la operación que deseas realizar en el formato: número1 operador número2')
 print('Por ejemplo: 3 + 4 o 10 / 2')
 
@@ -10,6 +11,7 @@ def calculadora():
         '-': lambda a, b: a - b,
         '*': lambda a, b: a * b,
         '/': lambda a, b: a / b if b != 0 else None,
+        '%': lambda a, b: a * b / 100,
     }
 
     while True:
